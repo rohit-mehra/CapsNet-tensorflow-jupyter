@@ -2,7 +2,9 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0) [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)](CONTRIBUTING.md)
 
-A Tensorflow implementation of [CapsNet](https://arxiv.org/abs/1710.09829), based on my understanding. This repo is built with an aim to simplify the concept, implement and understand it.
+A Tensorflow implementation of [CapsNet](https://arxiv.org/abs/1710.09829), based on my understanding. This repository is built with an aim to simplify the concept, implement and understand it.
+
+Any suggestions, or any mistake you find, I'll be happy to entertain.
 
 Credits for this amazing comparison: <https://github.com/naturomics/CapsNet-Tensorflow> ![capsVSneuron](capsuleVSneuron.png)
 

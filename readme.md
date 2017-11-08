@@ -1,6 +1,6 @@
 # CapsNet-tensorflow-jupyter
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0) [![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)]
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=plastic)](https://opensource.org/licenses/Apache-2.0) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=plastic)
 
 A Tensorflow implementation of [CapsNet](https://arxiv.org/abs/1710.09829), based on my understanding. This repository is built with an aim to simplify the concept, implement and understand it.
 

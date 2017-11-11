@@ -32,7 +32,9 @@ $ cd CapsNet-tensorflow-jupyter-master
   $ script -c "sudo python3 main.py" train_log.txt
   ```
 
-Test Accuracy: 99.19 % # First round with default parameters as in paper.
+Test Accuracy: 99.19 % First round with default parameters as in paper.
+
+Test Accuracy(lr=1e-04, lambda_val=0.8, recon_loss_w=0.0006): 99.329 %
 
 ### Reference
 

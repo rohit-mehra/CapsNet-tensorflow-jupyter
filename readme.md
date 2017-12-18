@@ -32,9 +32,13 @@ $ cd CapsNet-tensorflow-jupyter-master
   $ script -c "sudo python3 main.py" train_log.txt
   ```
 
-Test Accuracy: 99.19 % First round with default parameters as in paper.
+3. For Dynamic Loop implementation:
 
-Test Accuracy(lr=1e-04, lambda_val=0.8, recon_loss_w=0.0006): 99.329 %
+  ```
+  $ script -c "sudo python3 dynamic_main.py" train_log_dynamic.txt
+  ```
+
+  Test Accuracy (dynamic_main.py): 99.38 % First round with default parameters as in paper. The test set was the default provided by Tensorflow.
 
 ### Reference
 

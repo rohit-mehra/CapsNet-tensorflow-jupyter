@@ -25,7 +25,7 @@ $ cd CapsNet-tensorflow-jupyter-master
 
 ### Run Options
 
-1. Use Jupyter Notebook
+1. Use Jupyter Notebook (with visualizations)
 2. From linux terminal:
 
   ```
